@@ -6,7 +6,3 @@
 
 Coming soon ...
 
-```markdown
-   #~> ...
-```markdown
-
